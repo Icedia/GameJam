@@ -21,12 +21,12 @@ public class PlayerMovement : MonoBehaviour {
 		}
 
 	}
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-
+        Debug.Log(other);
         if (other.transform.tag == "GoodBug")
         {
-            _fallingSpeed = _fallingSpeed + 0.5f;
+            _fallingSpeed = _fallingSpeed + 0.1f;
             Destroy(other.gameObject);
 
         }

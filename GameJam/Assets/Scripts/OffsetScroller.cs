@@ -7,8 +7,8 @@ public class OffsetScroller : MonoBehaviour {
 
     void Update()
     {
-        float y = Mathf.Repeat(Time.time * scrollSpeed, 1);
-        Vector2 offset = new Vector2(0, y);
+        float y = Mathf.Repeat(Time.time * scrollSpeed, -1);
+        Vector2 offset = new Vector2(0, -y);
         GetComponent<Renderer>().sharedMaterial.SetTextureOffset("_MainTex", offset);
     }
 }
