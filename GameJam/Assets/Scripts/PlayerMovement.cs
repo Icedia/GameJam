@@ -39,13 +39,13 @@ public class PlayerMovement : MonoBehaviour {
     {
         if (other.transform.tag == "GoodBug")
         {
-            _fallingSpeed = _fallingSpeed + 0.01f;
+            _fallingSpeed = _fallingSpeed + 0.02f;
             Destroy(other.gameObject);
 
         }
         if (other.transform.tag == "BadBug")
         {
-            _fallingSpeed = _fallingSpeed - 0.01f;
+            _fallingSpeed = _fallingSpeed - 0.02f;
             Destroy(other.gameObject);
 
         }
