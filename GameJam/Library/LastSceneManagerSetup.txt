@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/main_menu.unity
+=======
+- path: Assets/Scenes/ThijsTestScene.unity
+>>>>>>> 7ba6b66cf1031cbd8866689078a43d2b0fc384a1
   isLoaded: 1
   isActive: 1

@@ -1,0 +1,147 @@
+﻿Kevers
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   GameJam/Assets/Art/GreenLizard/LizardGreen.controller
+#	modified:   GameJam/Assets/Art/GreenLizard/LizardGreen.prefab
+#	modified:   GameJam/Assets/Art/PurpleLizard/LizardGreen.controller
+#	modified:   GameJam/Assets/Art/PurpleLizard/LizardGreen.prefab
+#	modified:   GameJam/Assets/Art/PurpleLizard/PurpleLizard.controller.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/Tongue.png.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/_0002_L_Upperarm.png.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/_0004_L_Hand.png.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/_0007_Spine_2.png.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/_0008_Spine_1.png.meta
+#	modified:   GameJam/Assets/Art/PurpleLizard/_0011_L_Upperleg.png.meta
+#	modified:   GameJam/Assets/PlaceHolder/Materials/background_layer_1_tex_nogradient (2) 1.mat
+#	modified:   GameJam/Assets/PlaceHolder/Materials/background_layer_2_tex_nogradient (3).mat
+#	modified:   GameJam/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	modified:   GameJam/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	modified:   GameJam/Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   GameJam/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   GameJam/Library/assetDatabase3
+#	modified:   GameJam/Library/metadata/00/00000000000000002000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000003000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000004000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000004100000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000005000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000005100000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000006000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000006100000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000007000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000007100000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000008000000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000008100000000000000
+#	modified:   GameJam/Library/metadata/00/00000000000000009000000000000000
+#	modified:   GameJam/Library/metadata/00/0000000000000000a000000000000000
+#	modified:   GameJam/Library/metadata/00/0000000000000000a100000000000000
+#	modified:   GameJam/Library/metadata/00/0000000000000000b000000000000000
+#	modified:   GameJam/Library/metadata/00/0000000000000000c000000000000000
+#	modified:   GameJam/Library/metadata/7c/7cb6d1a9bfaf4964eadb663ea704bfbf.info
+#	modified:   GameJam/Library/metadata/86/86bd4375bf152a54c8bd6cffb9d6a20f
+#	modified:   GameJam/Library/metadata/86/86bd4375bf152a54c8bd6cffb9d6a20f.info
+#	modified:   GameJam/Library/metadata/8b/8bb073fc0f9aa8f4eaeb626ef4189289
+#	modified:   GameJam/Library/metadata/8b/8bb073fc0f9aa8f4eaeb626ef4189289.info
+#	modified:   GameJam/Library/metadata/c0/c07ed8cb8822cc945aab4434239ebf79.info
+#
+# Untracked files:
+#	GameJam/Assets/Art.meta
+#	GameJam/Assets/Art/Bug 1.meta
+#	GameJam/Assets/Art/Bug 1/
+#	GameJam/Assets/Art/Bug 2.meta
+#	GameJam/Assets/Art/Bug 2/
+#	GameJam/Assets/Art/Bug1.controller
+#	GameJam/Assets/Art/Bug1.controller.meta
+#	GameJam/Assets/Art/Bug2.controller
+#	GameJam/Assets/Art/Bug2.controller.meta
+#	GameJam/Assets/Scenes/LotteTestScene.unity
+#	GameJam/Assets/Scenes/LotteTestScene.unity.meta
+#	GameJam/Library/CrashedAssetImports.txt
+#	GameJam/Library/metadata/00/004264e52dd92474e9a06b1d1041b460
+#	GameJam/Library/metadata/00/004264e52dd92474e9a06b1d1041b460.info
+#	GameJam/Library/metadata/03/03bfffea3fd66594081362340b0966a6
+#	GameJam/Library/metadata/03/03bfffea3fd66594081362340b0966a6.info
+#	GameJam/Library/metadata/06/06dd2baf6272cd344a2f76519a7f181b
+#	GameJam/Library/metadata/06/06dd2baf6272cd344a2f76519a7f181b.info
+#	GameJam/Library/metadata/06/06f60ff904a3baa4da2986b3f3ac7705
+#	GameJam/Library/metadata/06/06f60ff904a3baa4da2986b3f3ac7705.info
+#	GameJam/Library/metadata/07/07b26edb2688a7c45bc7c3bc0ac36a4b
+#	GameJam/Library/metadata/07/07b26edb2688a7c45bc7c3bc0ac36a4b.info
+#	GameJam/Library/metadata/0e/0ec44ea28bd8e524abe58a25b75d9d9a
+#	GameJam/Library/metadata/0e/0ec44ea28bd8e524abe58a25b75d9d9a.info
+#	GameJam/Library/metadata/15/
+#	GameJam/Library/metadata/22/
+#	GameJam/Library/metadata/23/235994fdefeb87f44893eb5edb00fcf0
+#	GameJam/Library/metadata/23/235994fdefeb87f44893eb5edb00fcf0.info
+#	GameJam/Library/metadata/23/23d96b4c7803ada439e2e91cbe0cecee
+#	GameJam/Library/metadata/23/23d96b4c7803ada439e2e91cbe0cecee.info
+#	GameJam/Library/metadata/24/241faa01366d8d3479c1e9c724d88257
+#	GameJam/Library/metadata/24/241faa01366d8d3479c1e9c724d88257.info
+#	GameJam/Library/metadata/24/244092a3a5fd9bc4480e8564f783247f
+#	GameJam/Library/metadata/24/244092a3a5fd9bc4480e8564f783247f.info
+#	GameJam/Library/metadata/35/35463234871ac6b458a568d1415d2c5a
+#	GameJam/Library/metadata/35/35463234871ac6b458a568d1415d2c5a.info
+#	GameJam/Library/metadata/46/
+#	GameJam/Library/metadata/4a/4abac86c7bbaf6649b434ab4329906dc
+#	GameJam/Library/metadata/4a/4abac86c7bbaf6649b434ab4329906dc.info
+#	GameJam/Library/metadata/4b/4b03653a8f4c92749bb5e35e72eaca3a
+#	GameJam/Library/metadata/4b/4b03653a8f4c92749bb5e35e72eaca3a.info
+#	GameJam/Library/metadata/4b/4b97b212bc1036848933f720753c35e4
+#	GameJam/Library/metadata/4b/4b97b212bc1036848933f720753c35e4.info
+#	GameJam/Library/metadata/50/
+#	GameJam/Library/metadata/53/530f9136665d4264cb8a0b31a08fd3ce
+#	GameJam/Library/metadata/53/530f9136665d4264cb8a0b31a08fd3ce.info
+#	GameJam/Library/metadata/58/58584492891def349aa0b2ee7d3493b1
+#	GameJam/Library/metadata/58/58584492891def349aa0b2ee7d3493b1.info
+#	GameJam/Library/metadata/62/62318ac35eab98943a0e9721e79d59c5
+#	GameJam/Library/metadata/62/62318ac35eab98943a0e9721e79d59c5.info
+#	GameJam/Library/metadata/64/
+#	GameJam/Library/metadata/65/
+#	GameJam/Library/metadata/6b/
+#	GameJam/Library/metadata/72/
+#	GameJam/Library/metadata/74/
+#	GameJam/Library/metadata/76/
+#	GameJam/Library/metadata/78/
+#	GameJam/Library/metadata/79/79e8726faacfbf7439d608b2fa1a6502
+#	GameJam/Library/metadata/79/79e8726faacfbf7439d608b2fa1a6502.info
+#	GameJam/Library/metadata/8a/
+#	GameJam/Library/metadata/8d/
+#	GameJam/Library/metadata/92/
+#	GameJam/Library/metadata/93/
+#	GameJam/Library/metadata/95/9541c36c025018843b94173bed03f8ff
+#	GameJam/Library/metadata/95/9541c36c025018843b94173bed03f8ff.info
+#	GameJam/Library/metadata/97/972adfe354f5f1747a78f2e556c54016
+#	GameJam/Library/metadata/97/972adfe354f5f1747a78f2e556c54016.info
+#	GameJam/Library/metadata/99/
+#	GameJam/Library/metadata/a0/a0bd793d07d586c439bc08b8570a33fb
+#	GameJam/Library/metadata/a0/a0bd793d07d586c439bc08b8570a33fb.info
+#	GameJam/Library/metadata/a3/a33a73d51e85a3a479291bf155432620
+#	GameJam/Library/metadata/a3/a33a73d51e85a3a479291bf155432620.info
+#	GameJam/Library/metadata/a6/
+#	GameJam/Library/metadata/ac/
+#	GameJam/Library/metadata/b2/
+#	GameJam/Library/metadata/bc/bc539b66211d344449ba31ee197c2047
+#	GameJam/Library/metadata/bc/bc539b66211d344449ba31ee197c2047.info
+#	GameJam/Library/metadata/be/
+#	GameJam/Library/metadata/bf/
+#	GameJam/Library/metadata/c6/
+#	GameJam/Library/metadata/c9/
+#	GameJam/Library/metadata/ca/
+#	GameJam/Library/metadata/cd/
+#	GameJam/Library/metadata/d0/
+#	GameJam/Library/metadata/db/
+#	GameJam/Library/metadata/dd/
+#	GameJam/Library/metadata/e1/
+#	GameJam/Library/metadata/e7/
+#	GameJam/Library/metadata/e8/e804001ec1ff98c4791e51b631438dff
+#	GameJam/Library/metadata/e8/e804001ec1ff98c4791e51b631438dff.info
+#	GameJam/Library/metadata/f4/
+#	GameJam/Library/metadata/fa/faad5d573aa544c4a8d61da3530b214d
+#	GameJam/Library/metadata/fa/faad5d573aa544c4a8d61da3530b214d.info
+#	GameJam/Library/metadata/fb/
+#	GameJam/Temp/
+#
+

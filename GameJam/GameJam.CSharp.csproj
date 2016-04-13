@@ -18,7 +18,10 @@
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>5.3.2f1</UnityVersion>
     <RootNamespace></RootNamespace>
+<<<<<<< HEAD
     <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+=======
+>>>>>>> 7ba6b66cf1031cbd8866689078a43d2b0fc384a1
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -63,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\crRPGSystem\_Scripts\crMenuSystem.cs" />
     <Compile Include="Assets\scripts\ChangeMusic.cs" />
     <Compile Include="Assets\scripts\ClickToLoadAsync.cs" />
@@ -74,4 +78,15 @@
     <None Include="Assets\crRPGSystem\Notes\SlidingMenusReadme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
+=======
+    <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Scripts\OffsetScroller.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\TopBox.cs" />
+    <Compile Include="Assets\Spriter2UnityDX\Runtime\EntityRenderer.cs" />
+    <Compile Include="Assets\Spriter2UnityDX\Runtime\SortingOrderUpdater.cs" />
+    <Compile Include="Assets\Spriter2UnityDX\Runtime\TextureController.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
+>>>>>>> 7ba6b66cf1031cbd8866689078a43d2b0fc384a1
 </Project>
