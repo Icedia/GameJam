@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\OffsetScroller.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\TopBox.cs" />
     <Compile Include="Assets\Spriter2UnityDX\Runtime\EntityRenderer.cs" />
     <Compile Include="Assets\Spriter2UnityDX\Runtime\SortingOrderUpdater.cs" />
     <Compile Include="Assets\Spriter2UnityDX\Runtime\TextureController.cs" />

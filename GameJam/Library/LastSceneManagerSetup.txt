@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Thijsbackupscene.unity
-=======
-- path: Assets/Scenes/LotteTestScene.unity
->>>>>>> 1e2984521cb37b4992201fb1b62fd4aaaba14e09
+- path: Assets/Scenes/ThijsTestScene.unity
   isLoaded: 1
   isActive: 1
