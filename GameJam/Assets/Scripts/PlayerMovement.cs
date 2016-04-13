@@ -10,29 +10,42 @@ public class PlayerMovement : MonoBehaviour {
         transform.position += new Vector3(0, -_fallingSpeed);
 
 
-		if (Input.GetKey (KeyCode.LeftArrow))
-		{
-			transform.position -= new Vector3 (_speed * Time.deltaTime, 0.0f, 0f);
+        if (this.gameObject.tag == "Player1")
+        {
+            if (Input.GetKey(KeyCode.LeftArrow))
+                 {
+                     transform.position -= new Vector3(_speed * Time.deltaTime, 0.0f, 0f);
+                 }
+            if (Input.GetKey(KeyCode.RightArrow))
+                {
+                     transform.position += new Vector3(_speed * Time.deltaTime, 0.0f, 0f);
+                }
+        }
+        if (this.gameObject.tag == "Player2")
+        {
+            if (Input.GetKey(KeyCode.A))
+            {
+                transform.position -= new Vector3(_speed * Time.deltaTime, 0.0f, 0f);
+            }
+            if (Input.GetKey(KeyCode.D))
+            {
+                transform.position += new Vector3(_speed * Time.deltaTime, 0.0f, 0f);
+            }
+        }
 
-		}
-		if (Input.GetKey (KeyCode.RightArrow)) 
-		{
-			transform.position += new Vector3 (_speed * Time.deltaTime, 0.0f, 0f);
-		}
 
 	}
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log(other);
         if (other.transform.tag == "GoodBug")
         {
-            _fallingSpeed = _fallingSpeed + 0.1f;
+            _fallingSpeed = _fallingSpeed + 0.01f;
             Destroy(other.gameObject);
 
         }
         if (other.transform.tag == "BadBug")
         {
-            _fallingSpeed = _fallingSpeed - 0.5f;
+            _fallingSpeed = _fallingSpeed - 0.01f;
             Destroy(other.gameObject);
 
         }
