@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/ThijsTestScene.unity
+=======
+- path: Assets/Scenes/LotteTestScene.unity
+>>>>>>> 3778bdc220c613429a642796592550d0a15dc357
   isLoaded: 1
   isActive: 1
